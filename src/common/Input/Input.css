@@ -1,0 +1,14 @@
+.input__container {
+  display: grid;
+  gap: 7px;  
+}
+
+.input {
+  width: 300px;
+  padding: 5px 10px;
+  border: none;
+  border-bottom: 2px solid var(--light-green);
+  border-radius: 3px;
+  color: var(--black);
+  background-color: var(--background);
+}

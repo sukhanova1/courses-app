@@ -1,0 +1,5 @@
+export const GET_ALL_COURSES_SUCCESS = 'GET_ALL_COURSES_SUCCESS';
+
+export const ADD_COURSE = 'ADD_COURSE';
+export const UPDATE_COURSE = 'UPDATE_COURSE';
+export const DELETE_COURSE = 'DELETE_COURSE';

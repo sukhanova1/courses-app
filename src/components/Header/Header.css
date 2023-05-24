@@ -1,0 +1,12 @@
+.header {
+  padding: 7px 45px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--white);
+}
+
+.header__user-name {
+  margin-right: 35px;
+}
